@@ -5,7 +5,7 @@
   <img alt="Appium" src="https://img.shields.io/badge/Appium-2.x-662D91?style=flat-square">
   <img alt="TestNG" src="https://img.shields.io/badge/TestNG-suite-DE3423?style=flat-square">
   <img alt="Maven" src="https://img.shields.io/badge/Maven-build-C71A36?style=flat-square&logo=apachemaven&logoColor=white">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-blue?style=flat-square">
+  <img alt="License" src="https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey?style=flat-square">
 </p>
 
 A reusable Android automation framework. Drop any APK in `apps/` and the framework handles driver setup, server management, page-object base, gestures, screenshots, and an **auto-explorer** that smoke-tests any APK with zero app-specific code.
@@ -235,6 +235,9 @@ mvn test -Ddevice.name=R3CN1234ABC
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+**All Rights Reserved** — see [LICENSE](LICENSE).
+
+This code is published for portfolio and evaluation purposes. You're welcome to read it;
+reuse in your own projects requires written permission.
 
 Built by [Syed Hammad Ali](https://github.com/hammu1) · AI QA Engineer
