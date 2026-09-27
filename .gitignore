@@ -1,0 +1,9 @@
+target/
+*.apk
+*.ipa
+!apps/.gitkeep
+.idea/
+*.iml
+.classpath
+.project
+.settings/
